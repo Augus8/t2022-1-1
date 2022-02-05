@@ -1,1 +1,1 @@
-# t2022-1-1
+# problem solved using c programing.
